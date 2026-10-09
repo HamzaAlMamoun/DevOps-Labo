@@ -1,0 +1,3 @@
+- Naam:Hamza
+- Eerste repo die ik zelf heb gemaakt
+- oefen zone DevOps
